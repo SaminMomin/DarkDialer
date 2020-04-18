@@ -1,0 +1,2 @@
+# DarkDialer
+ This dialer comes with catchy Dark Theme which facilitates the user to use the calling facility with custom modified keypad.  Through the dialer, you can also make local as well as international calls. It comes handy in case of all types of calls that a user want to make.  On single tap of deletion key, you'll be able to delete one character at a time, on long press of deletion key, the number will be deleted in its entirety.  This dialer is designed to be user friendly and as simple as possible to interact with the users.
